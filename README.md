@@ -14,19 +14,11 @@ Here are some ideas to get you started:
 -->
 <div align = "center">
 
-# Henrique Hiraga - o-akira
+# 🧑‍💻Henrique Hiraga - o-akira
 
 ---
 
 Estudante de Engenharia da Computação com grande interesse na área de programação, principalmente na programação de jogos e na parte do front-end.
-
----
-
-## Conecte-se comigo
-
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/h_hiraga2002)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:h.hiraga2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](www.linkedin.com/in/henrique-hiraga-a21a20334)
 
 ---
 
@@ -48,9 +40,27 @@ Estudante de Engenharia da Computação com grande interesse na área de program
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
+
 ## 📖Cursos
 [<img src="https://www.alura.com.br/assets/api/cursos/logica-programacao-mergulhe-programacao-javascript.svg" height="50"></a>](https://cursos.alura.com.br/certificate/e0cf051e-5db3-422f-aa81-eb34cccc979c?lang=pt_BR)
 
+---
+
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=o-akira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=o-akira&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![trophy](https://github-profile-trophy.vercel.app/?username=o-akira&theme=onedark&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
+
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=o-akira&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-akira&layout=compact&theme=radical&custom_title=Languages"/></td>
+  </tr>
+</table>
+
+<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{o-akira}/count.svg" /></p> 
+</div>
