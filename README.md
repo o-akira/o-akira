@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 
 Estudante de Engenharia da computação | C#, HTML, CSS, JavaScript\
-Cursando Bacharelado em Engenharia da Computação (IFSP)\
+Cursando Bacharelado em Engenharia da Computação (IFSP)
 
 ---
 
