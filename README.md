@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ---
 
-Estudante de Engenharia da Computação com grande interesse na área de programação, principalmente na programação de jogos e na parte do front-end.
+Estudante de Engenharia da computação | C#, HTML, CSS, JavaScript
+Cursando Bacharelado em Engenharia da Computação (IFSP)
 
 ---
 
