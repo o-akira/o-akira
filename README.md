@@ -43,6 +43,7 @@ Cursando Bacharelado em Engenharia da Computação (IFSP)
 ---
 
 ## 📖Cursos
+[<img src="https://www.alura.com.br/assets/api/cursos/html-css-ambiente-arquivos-tags.svg" height="50"></a>](https://cursos.alura.com.br/certificate/df82b22d-e078-4a0c-8e54-63de3abaef50?lang=pt_BR)
 [<img src="https://www.alura.com.br/assets/api/cursos/logica-programacao-mergulhe-programacao-javascript.svg" height="50"></a>](https://cursos.alura.com.br/certificate/e0cf051e-5db3-422f-aa81-eb34cccc979c?lang=pt_BR)
 [<img src="https://assets.dio.me/9NEQYHk5Ch5kqNkb7_NBBBrEZt9u7_474TkOR0nVZ0I/f:webp/q:80/w:120/L3RyYWNrcy84MDUyZGIxYi1mNDM0LTQ5ODAtOGJiYi05ZjdkYWE3MjViOGQucG5n" height="50"></a>](https://hermes.dio.me/certificates/W7W5NDM6.pdf)
 
